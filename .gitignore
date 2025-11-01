@@ -1,0 +1,25 @@
+# Java
+target/
+*.log
+*.class
+*.jar
+*.war
+
+# Build
+.mvn/
+gradle/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
